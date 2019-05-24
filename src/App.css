@@ -1,0 +1,23 @@
+.App-Tile {
+  background-color: rgb(139, 68, 68);
+}
+
+.App-Images {
+  width: 100%;
+  height: auto;
+}
+
+.App-Images .Images{
+   width: 500px;; 
+    height:300px;
+    padding: 2rem;
+    float: left;
+}
+
+.App-Titles{
+  float: left;
+}
+
+h2{
+  padding: 2rem;
+}
